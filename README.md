@@ -1,0 +1,1 @@
+Developed and deployed an AI-driven legal technology prototype designed to automate and streamline the review process for non-disclosure agreements (NDAs). The web application provides users with an instant risk assessment by scanning contract text for key liabilities.
